@@ -39,7 +39,7 @@ public class DashBoardActivity extends AppCompatActivity {
         });
 
         //card 1
-        //under card one
+        
         cardappointment = findViewById(R.id.cardappointment);
         cardappointment.setOnClickListener(new View.OnClickListener() {
             @Override
